@@ -9,10 +9,18 @@ O **Browser 98** foi projetado para resgatar a essência da navegação clássic
  * **Multiprocessamento e Assincronia:** Carregamento de páginas e mídias executado inteiramente em *background threads*, mantendo a interface gráfica do Tkinter sempre fluida e sem travamentos.
  * **Persistência Simples e Portável:** Histórico de navegação, lista de favoritos e configurações salvos em arquivos de texto plano locais (historico.txt, favoritos.txt, config.ini).
  * **Resiliência de Rede:** Tratamento avançado de exceções que traduz falhas complexas de sockets e SSL em mensagens amigáveis para o usuário.
-## **Requisitos de Sistema**
+* **Requisitos de Sistema**
  * **Python:** Versão 3.8 ou superior (recomendado Python 3.10+)
  * **Dependências Externas:** Biblioteca **Pillow** (PIL) para processamento e exibição de imagens.
  * **Hardware:** Extremamente leve; roda em praticamente qualquer processador com 128 MB a 256 MB de RAM livres e menos de 5 MB de espaço em disco.
+
+ * **CURRENT LIMITATIONS:** - No JavaScript
+- Limited HTML/CSS support
+- No modern CSS engine
+- POST forms are limited
+- No full HTML5 engine
+- Windows 9x compatibility is not currently achieved
+- Python 3.8+ required
 ## **Como Instalar e Executar**
  1. Certifique-se de ter o Python instalado em seu sistema.
  2. Instale a biblioteca de manipulação de imagens Pillow via terminal:
