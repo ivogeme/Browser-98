@@ -12,7 +12,7 @@ O **Browser 98** foi projetado para resgatar a essência da navegação clássic
 * **Requisitos de Sistema**
  * **Python:** Versão 3.8 ou superior (recomendado Python 3.10+)
  * **Dependências Externas:** Biblioteca **Pillow** (PIL) para processamento e exibição de imagens.
- * **Hardware:** Extremamente leve; roda em praticamente qualquer processador com 128 MB a 256 MB de RAM livres e menos de 5 MB de espaço em disco.
+ * **Hardware:** Requisitos mínimos ainda não foram oficialmente determinados.
 
  * **CURRENT LIMITATIONS:** - No JavaScript
 - Limited HTML/CSS support
