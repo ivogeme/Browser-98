@@ -46,7 +46,7 @@ Projetado para manter baixo o uso de recursos; a implementação atual em Python
  1. Certifique-se de ter o Python instalado em seu sistema.
  2. Instale a biblioteca de manipulação de imagens Pillow via terminal:
    ```bash
-   pip install Pillow
+   pip install -r requirements.txt
    
    ```
  3. Baixe ou clone o código-fonte do navegador.
