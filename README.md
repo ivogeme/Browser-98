@@ -14,7 +14,8 @@ O **Browser 98** foi projetado para resgatar a essência da navegação clássic
  * **Dependências Externas:** Biblioteca **Pillow** (PIL) para processamento e exibição de imagens.
  * **Hardware:** Requisitos mínimos ainda não foram oficialmente determinados.
 
- * **CURRENT LIMITATIONS:** - No JavaScript
+ * **CURRENT LIMITATIONS:** -Browser 98 NÃO pretende ser compatível com a Web moderna
+ *  No JavaScript
 - Limited HTML/CSS support
 - No modern CSS engine
 - POST forms are limited
