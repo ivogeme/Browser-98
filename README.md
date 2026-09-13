@@ -40,3 +40,5 @@ Aviso: o modo de compatibilidade desativa a verificação de certificados TLS e 
    python browser98.py
    
    ```
+
+Licensed under GPL-3.0.
