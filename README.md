@@ -1,6 +1,17 @@
 # README.md - Browser 98 (v1.2)
 > Um navegador web minimalista, leve e focado na preservação da Small Web, protocolos retrô e arquiteturas clássicas, desenvolvido em Python com Tkinter e Pillow.
-> 
+>
+>
+ **"Por quê?** Os navegadores modernos são poderosos, mas também são grandes e dependentes de padrões web cada vez mais complexos.
+
+O Browser98 explora uma direção diferente:
+um navegador compacto focado em leitura, hiperlinks,
+HTML clássico e protocolos alternativos, como Gemini e Gopher.
+
+O projeto visava originalmente a compatibilidade com o Windows 9x.
+A implementação atual em Python é um protótipo funcional;
+planeja-se uma futura reescrita em Rust/Rust9x para os sistemas mais antigos.
+
 ## **Visão Geral**
 O **Browser 98** foi projetado para resgatar a essência da navegação clássica dos anos 90 e início dos anos 2000. Sem o peso de motores de renderização modernos ou execução de scripts complexos, ele oferece uma experiência veloz, focada em texto, hiperlinks e leitura limpa. Além do suporte a HTTP/HTTPS tradicional, ele traz implementações nativas para protocolos alternativos e descentralizados.
 ## **Principais Recursos da Versão 1.2**
