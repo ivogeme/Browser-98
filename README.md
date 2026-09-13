@@ -26,14 +26,14 @@ O **Browser 98** foi projetado para resgatar a essência da navegação clássic
  * **Dependências Externas:** Biblioteca **Pillow** (PIL) para processamento e exibição de imagens.
  * **Hardware:** Requisitos mínimos ainda não foram oficialmente determinados.
 
- * **CURRENT LIMITATIONS:** -Browser 98 NÃO pretende ser compatível com a Web moderna
- *  No JavaScript
-- Limited HTML/CSS support
-- No modern CSS engine
-- POST forms are limited
-- No full HTML5 engine
-- Windows 9x compatibility is not currently achieved
-- Python 3.8+ required
+ * **LIMITAÇÕES ATUAIS:** - O Browser 98 não visa à compatibilidade com a Web moderna
+ * Sem JavaScript
+- Suporte limitado a HTML/CSS
+- Sem motor de CSS moderno
+- Formulários POST limitados
+- Sem motor HTML5 completo
+- Compatibilidade com Windows 9x ainda não alcançada
+- Requer Python 3.8+
 - 
 **Status em relação ao Windows 9x:**
 O Browser98 foi criado originalmente com a compatibilidade com o Windows 9x como um objetivo de longo prazo. A implementação atual em Python funciona em ambientes Python modernos, mas ainda não oferece compatibilidade direta com o Windows 9x. Está planejada uma futura reescrita em Rust/Rust9x para solucionar essa limitação arquitetônica.
