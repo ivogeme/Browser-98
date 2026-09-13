@@ -25,6 +25,8 @@ O **Browser 98** foi projetado para resgatar a essência da navegação clássic
 **Status em relação ao Windows 9x:**
 O Browser98 foi criado originalmente com a compatibilidade com o Windows 9x como um objetivo de longo prazo. A implementação atual em Python funciona em ambientes Python modernos, mas ainda não oferece compatibilidade direta com o Windows 9x. Está planejada uma futura reescrita em Rust/Rust9x para solucionar essa limitação arquitetônica.
 
+Aviso: o modo de compatibilidade desativa a verificação de certificados TLS e deve ser usado apenas quando necessário
+
 ## **Como Instalar e Executar**
  1. Certifique-se de ter o Python instalado em seu sistema.
  2. Instale a biblioteca de manipulação de imagens Pillow via terminal:
