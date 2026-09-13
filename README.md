@@ -2,7 +2,7 @@
 > Um navegador web minimalista, leve e focado na preservação da Small Web, protocolos retrô e arquiteturas clássicas, desenvolvido em Python com Tkinter e Pillow.
 >
 >
- **"Por quê?** Os navegadores modernos são poderosos, mas também são grandes e dependentes de padrões web cada vez mais complexos.
+ **"Por quê Browser98?** Os navegadores modernos são poderosos, mas também são grandes e dependentes de padrões web cada vez mais complexos.
 
 O Browser98 explora uma direção diferente:
 um navegador compacto focado em leitura, hiperlinks,
